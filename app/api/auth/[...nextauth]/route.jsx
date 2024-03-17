@@ -1,4 +1,4 @@
-import {options} from "./options.tsx"
+import {options} from "./options.jsx"
 import NextAuth from "next-auth"
 
 const handler=NextAuth(options)

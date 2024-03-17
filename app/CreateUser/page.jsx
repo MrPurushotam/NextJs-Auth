@@ -1,8 +1,9 @@
+import UserForm from "../(components)/UserForm"
 
 const CreateUser = () => {
   return (
     <div>
-        <h1>Only Fans</h1>
+        <h1><UserForm/></h1>
     </div>
   )
 }
